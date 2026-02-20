@@ -1,5 +1,5 @@
 
-# Next Blog Starter
+# Prisma Blog
 
 A simple **Blog Application Starter Pack** built with **TypeScript, Express.js**.  
 This project is designed for the **Next Level Web Development Bootcamp** to help learners practice Prisma hands-on by building a blog platform.
@@ -19,8 +19,8 @@ This project is designed for the **Next Level Web Development Bootcamp** to help
 Clone the repository:
 
 ```bash
-git clone https://github.com/Apollo-Level2-Web-Dev/next-blog-starter.git
-cd next-blog-starter
+git clone https://github.com/Arman3747/prisma_blog.git
+cd prisma_blog
 ```
 
 Install dependencies:
